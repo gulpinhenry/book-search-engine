@@ -25,7 +25,7 @@ Exploring the MERN stack by creating a Book Search Engine, leveraging Google Boo
 This project was bootstrapped with [CreateReactApp](https://github.com/facebook/create-react-app).
 
 
-[Click this link to go to the live site](https://book-search-engine-henrykam.herokuapp.com/)
+[Click this link to go to the live site](https://book-search-engine-23mydd5vo-gulpinhenry.vercel.app/)
  <br />
 ![Screenshot of webpage](./demo.gif)
 
